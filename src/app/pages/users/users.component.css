@@ -1,0 +1,30 @@
+.table-wrapper{
+    width: 1024px;
+    /* margin-top: 50px; */
+    margin: 50px auto;
+}
+
+table{ 
+    width:100%
+}
+
+tr.editable-row{
+    background-color: #ffe6aa;
+} 
+
+table {
+    width: 100%;
+}
+  
+th.mat-sort-header-sorted {
+  color: black;
+}
+
+::ng-deep .highlight{
+  color: white;
+  background:grey;
+}
+
+td.mat-cell:first-child > div:first-child {
+  font-weight: bold;
+}

@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Enola Rowes",
+      "role": "admin",
+      "email": "tony@mcus.com",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Timmothy Lueilwitz",
+      "role": "user",
+      "email": "timmothy@mcu.com",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Madilyn Pacocha",
+      "role": "user",
+      "email": "madilyn@mcu.com",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Harley Cremin",
+      "role": "user",
+      "email": "harley.cremin@mcu.com",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Juana Ziemann",
+      "role": "admin",
+      "email": "harley.cremin@mcu.com",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Frank Morgado",
+      "role": "user",
+      "email": "frank.morgado@mcu.com",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "asdgfd",
+      "role": "user",
+      "email": "vili9999@abv.bg",
+      "status": true
+    },
+    {
+      "id": 9,
+      "status": false,
+      "role": "user",
+      "email": "vili999@abv.bg",
+      "name": "Velyana Petrova"
+    },
+    {
+      "status": "false",
+      "name": "Fernando",
+      "email": "fernando@gmail.com",
+      "id": 10
+    }
+  ]
+}
